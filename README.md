@@ -1,4 +1,4 @@
-Employee Salary Analysis of X Company 2025
+#Employee Salary Analysis of X Company 2025
 This project examines the salary distribution of workers at X Company, with a focus on staff from diverse professional and educational backgrounds. The goal is to know salary patterns, categorize pay discrepancies, and support evidence-based HR decision-making.
 #Table of Contents
 #Overview
