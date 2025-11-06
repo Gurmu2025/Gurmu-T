@@ -12,7 +12,7 @@ Visualize salary data in an easy-to-understand format.
 Column Name	Description	Example
 Employee_ID	Unique employee identifier	E001
 Name	Employee full name	John Doe
-Department	Department or division	Finance
+Department or division	Finance
 Role	Employee position	Accountant
 Background	Educational or professional background	Business / Engineering
 Experience (Years)	Total years of experience	5
